@@ -26,7 +26,7 @@ function App() {
   const [projectDescription, setProjectDescription] = useState("")
   const [members, setMembers] = useState("")
 
-  const API = "https://taskmanagement-production-b151.up.railway.app"
+  const API = "https://taskmanagement-production-596c.up.railway.app"
 
   const handleSignup = async () => {
 
